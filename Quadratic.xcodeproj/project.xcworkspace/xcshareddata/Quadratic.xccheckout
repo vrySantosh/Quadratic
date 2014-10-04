@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>12F0ABD0-8F33-4D62-8068-CA6C503C9708</string>
+	<key>IDESourceControlProjectName</key>
+	<string>Quadratic</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>DB9F4ED842B9BBB7AE50FE3010FA590414508481</key>
+		<string>https://github.com/dmattia/Quadratic</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>Quadratic.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>DB9F4ED842B9BBB7AE50FE3010FA590414508481</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/dmattia/Quadratic</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>DB9F4ED842B9BBB7AE50FE3010FA590414508481</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>DB9F4ED842B9BBB7AE50FE3010FA590414508481</string>
+			<key>IDESourceControlWCCName</key>
+			<string>Quadratic</string>
+		</dict>
+	</array>
+</dict>
+</plist>
