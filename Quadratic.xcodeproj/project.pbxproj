@@ -7,12 +7,14 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		F125D36A19E1CEBB00E5D825 /* FunctionsTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F125D36919E1CEBB00E5D825 /* FunctionsTableViewController.swift */; };
 		F15058AA19DB38B300166B58 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15058A919DB38B300166B58 /* AppDelegate.swift */; };
 		F15058AC19DB38B300166B58 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15058AB19DB38B300166B58 /* ViewController.swift */; };
 		F15058AF19DB38B300166B58 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = F15058AD19DB38B300166B58 /* Main.storyboard */; };
 		F15058B119DB38B300166B58 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = F15058B019DB38B300166B58 /* Images.xcassets */; };
 		F15058B419DB38B400166B58 /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = F15058B219DB38B300166B58 /* LaunchScreen.xib */; };
 		F15058C019DB38B400166B58 /* QuadraticTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = F15058BF19DB38B400166B58 /* QuadraticTests.swift */; };
+		F1E85F9D19E787BA006ABA38 /* HomeView.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1E85F9C19E787BA006ABA38 /* HomeView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +28,7 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		F125D36919E1CEBB00E5D825 /* FunctionsTableViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = FunctionsTableViewController.swift; sourceTree = "<group>"; };
 		F15058A419DB38B300166B58 /* Quadratic.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Quadratic.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15058A819DB38B300166B58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F15058A919DB38B300166B58 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
@@ -36,6 +39,7 @@
 		F15058B919DB38B400166B58 /* QuadraticTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = QuadraticTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		F15058BE19DB38B400166B58 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		F15058BF19DB38B400166B58 /* QuadraticTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = QuadraticTests.swift; sourceTree = "<group>"; };
+		F1E85F9C19E787BA006ABA38 /* HomeView.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = HomeView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -80,6 +84,8 @@
 				F15058A919DB38B300166B58 /* AppDelegate.swift */,
 				F15058AB19DB38B300166B58 /* ViewController.swift */,
 				F15058AD19DB38B300166B58 /* Main.storyboard */,
+				F1E85F9C19E787BA006ABA38 /* HomeView.swift */,
+				F125D36919E1CEBB00E5D825 /* FunctionsTableViewController.swift */,
 				F15058B019DB38B300166B58 /* Images.xcassets */,
 				F15058B219DB38B300166B58 /* LaunchScreen.xib */,
 				F15058A719DB38B300166B58 /* Supporting Files */,
@@ -212,6 +218,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F125D36A19E1CEBB00E5D825 /* FunctionsTableViewController.swift in Sources */,
+				F1E85F9D19E787BA006ABA38 /* HomeView.swift in Sources */,
 				F15058AC19DB38B300166B58 /* ViewController.swift in Sources */,
 				F15058AA19DB38B300166B58 /* AppDelegate.swift in Sources */,
 			);
@@ -405,6 +413,7 @@
 				F15058C519DB38B400166B58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		F15058C619DB38B400166B58 /* Build configuration list for PBXNativeTarget "QuadraticTests" */ = {
 			isa = XCConfigurationList;
@@ -413,6 +422,7 @@
 				F15058C819DB38B400166B58 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
